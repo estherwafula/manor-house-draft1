@@ -1,6 +1,25 @@
-.center {
+.logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 512px;
+}
+.old {
+  padding-top: 450px;
+  padding-right: 100px;
+  padding-bottom: 150px;
+  padding-left: 100px;
+}
+
+.container {
+  width: 100%;
+  position: absolute;
+  top:450px;
+
+}
+
+h1 {
+  display: block;
+  width: 100%;
+  text-align: center;
 }
