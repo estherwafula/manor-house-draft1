@@ -3,7 +3,17 @@
   margin-left: auto;
   margin-right: auto;
   width: 512px;
+  border-radius: 50%;
+  border-color: green;
+  border-width: 10px;
+  border-style: solid;
+  background-color: lightgreen;
 }
+
+body {
+  
+}
+
 .old {
   padding-top: 450px;
   padding-right: 100px;
@@ -14,12 +24,16 @@
 .container {
   width: 100%;
   position: absolute;
-  top:450px;
-
+  top: 400px;
 }
 
 h1 {
   display: block;
   width: 100%;
   text-align: center;
+}
+
+H1 {
+  font-size: 100PX;
+  color: darkgreen;
 }
